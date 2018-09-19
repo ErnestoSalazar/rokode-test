@@ -19,13 +19,12 @@ this will create a database user role if not exist, as well as creating the data
 
 
 
-after running the migrations to start the app execute the following command
-<code>
- npm start
-</code>
+after running the migrations to start the app execute the following command <code>npm start</code>.
+and that's it, the application should be up and running at __http://localhost:3000__ by default.
 
 
 
+##Endpoints
 Endpoints    |  HTTP verbs    
 ------------ | -------------
 __/tickets__ |  __POST__
