@@ -4,6 +4,8 @@ To set up the application first of all you need to install on your system the fo
 - Node.js (v10.10.0)
 - Postgresql (v9.6)
 
+the application does encrypt passwords using SHA3
+
 ## installing the dependencies
 to install the dependencies you need to run the <code>npm install</code> in your terminal inside application root directory
 
