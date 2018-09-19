@@ -24,7 +24,8 @@ and that's it, the application should be up and running at __http://localhost:30
 
 
 
-##Endpoints
+## Endpoints
+
 Endpoints    |  HTTP verbs    
 ------------ | -------------
 __/tickets__ |  __POST__
