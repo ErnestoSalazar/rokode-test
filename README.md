@@ -7,7 +7,7 @@ To set up the application first of all you need to install on your system the fo
 the application does encrypt passwords using SHA3
 
 ## installing the dependencies
-to install the dependencies you need to run the <code>npm install</code> in your terminal inside application root directory
+to install the node dependencies you need to run the <code>npm install</code> in your terminal inside application root directory
 
 ### Run the migration
 
